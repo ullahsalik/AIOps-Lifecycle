@@ -19,7 +19,3 @@ In AIOps use cases such as anomaly detection and incident prediction, reproducib
 
 **Result**
 The experiment established a fully traceable training workflow where all runs are versioned and reproducible, with the final model successfully registered in MLflow and achieving strong anomaly detection performance (~94% accuracy).
-
----
-
-If you want, I can tailor this further to match your exact repo structure or make it more “GitHub-polished” (badges, architecture diagram section, etc.).
